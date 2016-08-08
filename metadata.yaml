@@ -1,0 +1,26 @@
+_repo: Galipettes_12665
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galipaux, Félix
+    alias: Galipaux, Felix
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '4485'
+    url: http://www.gutenberg.org/2009/agents/4485
+description: ''
+gutenberg_bookshelf: FR Humour
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12665'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+- GITenberg
+title: Galipettes
+url: http://www.gutenberg.org/ebooks/12665
